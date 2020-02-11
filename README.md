@@ -1,4 +1,4 @@
-# WhatsApp
+# WhatsApp Clone (Fake WhatsUp)
 
 A new Flutter application.
 
